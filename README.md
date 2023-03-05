@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wicek-w
-- 👀 I’m interested in photography, data viz and data analysis.
+- 👀 I’m interested in data vizualisation, data analysis and photography.
 - 👨‍🎓 I'm data analysis student...
 - 🧑‍💼 ... and I work as marketing analyst 
 - 🌱 Currently focusing on learning more advanced SQL and creating more project on my own. 
